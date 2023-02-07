@@ -16,7 +16,7 @@ conda env create -f environment.yml
 ```
 ## Usage
 
-We provide the implementation of the ESM + GNN pipeline. The data will be available soon. 
+We provide the implementation of the ESM + GNN pipeline. The data is available in this [link](https://www.dropbox.com/s/34k53tcr6maeobb/data.zip?dl=0)
 ```
 python train.py 
 ```
